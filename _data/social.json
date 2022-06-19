@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/ThomasKimble",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Linkedin",
+    "link": "https://www.linkedin.com/in/thomas-oliver-kimble/",
+    "image": "images/social/linkedin.svg"
+  }
+]
