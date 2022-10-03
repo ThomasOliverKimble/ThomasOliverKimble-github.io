@@ -129,6 +129,6 @@ For any more information on the project, please don't hesitate to contact me <a 
 
 <div class="row justify-content-center">
   <div class="col-auto">
-    <a class="button_link" href="https://github.com/ThomasKimble/mobility-and-friendship" target="_blank">Code</a>
+    <a class="button_link" href="https://github.com/ThomasOliverKimble/mobility-and-friendship" target="_blank">Code</a>
   </div>
 </div>
