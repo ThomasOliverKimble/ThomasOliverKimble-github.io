@@ -5,34 +5,37 @@ layout: page
 bodyClass: page-about
 ---
 
-My name is **Thomas Oliver Kimble** and I am an engineer with a passion for music.
+My name is **Thomas Oliver Kimble**, an engineer with a rich blend of skills and interests, encompassing data science, robotics, cloud engineering, and a strong passion for both music and design.
 
 <div class="web-image-md">
     <img src="/images/about/me.jpg">
 </div>
 
-# Personal life
 
-I was born in England and moved to Switzerland when I was 3 years old. I then moved to France at 5,
-but continued my education in Switzerland.
+# Personal Life
 
-Maths and Science have always intrigued me, so becoming an engineer was a natural decision as I have always
-been fascinated as to how things work. I also have an eye for design and aesthetics, allowing me to show
-a more creative side in contrast with my studies.
-
-There has always been a guitar around me, and I started playing at 7 years old. I have played in multiple bands,
-and performed at festivals, in bars, outdoors, indoors... you name it! Curiosity lead me to also pick up
-other instruments such as the drums and the piano over the years, allowing me to compose songs myself.
+Hailing originally from England, my early years were marked by a move to Switzerland at three and a subsequent relocation to France. Despite these geographical shifts, my educational journey was primarily Swiss-based. Engineering was a natural choice for me, harmonizing my fascination with maths and science and my keen eye for design and aesthetics. This path has enabled me to merge analytical precision with creative expression, a duality that is evident in my music pursuits. Having been surrounded by music, especially the guitar, from the age of seven, I've explored various musical avenues, playing in bands and experimenting with instruments like the drums and piano.
 
 # Education
 
-After graduating secondary school with a French Baccalauréat with a scientific orientation in 2015,
-I obtained a Bachelor's Degree in Microengineering in 2019, and am currently finishing my Master's
-degree in Robotics at <a href="https://www.epfl.ch/en/" target="_blank">EPFL</a> in Lausanne, Switzerland.
+After completing a scientific French Baccalauréat in 2015, I pursued and obtained a Bachelor’s Degree in Microengineering from EPFL in 2019. My academic endeavors culminated in a Master’s degree in Robotics from the same institution, with specializations in Data Science and Space Technologies.
 
-Microengineering at EPFL allowed me to develop skills in a lot of domains such as electrical engineering,
-mechanical design, structural engineering, micro/nano-tech, software engineering and robotics. It was during my final
-year that I developed a keen interest in robotics oriented software engineering, hence pursuing a Master's degree in the domain.
+
+My studies at EPFL allowed me to cultivate a diverse skill set, ranging from electrical engineering to software engineering, with a particular interest sparked in robotics-oriented software engineering during my final year.
+
+# Professional Experience
+
+In the professional realm, I've engaged in roles that blend technical innovation with creative design. My stint with Maffi Racing in Geneva involved leading the redesign of their website and creating a distinctive livery for their Formula 4 car, demonstrating my knack for merging artistic design with brand identity.
+
+
+My master's thesis at Cyberbotics allowed me to contribute to the Webots robotics simulator, enhancing its features and performance. This project extended to modernizing the robotbenchmark.net platform and improving the webots.cloud platform for a more secure and efficient online simulation experience.
+
+
+Presently, I am employed as a Cloud Data Engineer at The Pictet Bank. Here, my focus is on developing robust cloud-based data solutions, applying my skills in AWS and Snowflake. My role encompasses data engineering, software development, and DevOps, contributing to efficient, scalable data platforms and collaborating with diverse teams.
+
+# Career Aspirations
+
+Looking ahead, I am eager to explore opportunities in Data Science, Data Engineering, DevOps, and Cloud Engineering. My diverse expertise, coupled with my passion for design and problem-solving, uniquely positions me for roles that demand innovation, technical skill, and a strategic mindset.
 
 # Resume
 
