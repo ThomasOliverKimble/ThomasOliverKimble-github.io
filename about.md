@@ -8,7 +8,7 @@ bodyClass: page-about
 My name is **Thomas Oliver Kimble**, an engineer with a rich blend of skills and interests, encompassing data science, robotics, cloud engineering, and a strong passion for both music and design.
 
 <div class="web-image-md">
-    <img src="/images/about/me.jpg">
+    <img src="/images/about/Me.jpg">
 </div>
 
 
