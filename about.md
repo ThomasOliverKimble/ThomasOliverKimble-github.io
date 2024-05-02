@@ -14,24 +14,21 @@ My name is **Thomas Oliver Kimble**, an engineer with a rich blend of skills and
 
 # Personal Life
 
-Hailing originally from England, my early years were marked by a move to Switzerland at three and a subsequent relocation to France. Despite these geographical shifts, my educational journey was primarily Swiss-based. Engineering was a natural choice for me, harmonizing my fascination with maths and science and my keen eye for design and aesthetics. This path has enabled me to merge analytical precision with creative expression, a duality that is evident in my music pursuits. Having been surrounded by music, especially the guitar, from the age of seven, I've explored various musical avenues, playing in bands and experimenting with instruments like the drums and piano.
+Originally from England, I moved to Switzerland when I was three and later to France. My education was mainly in Switzerland, where I pursued engineering—a field that aligned perfectly with my passion for math, science, and design. This combination of interests led me to explore both the analytical and creative sides of my personality, particularly through music. From the age of seven, I was immersed in music, playing in bands and learning instruments like the guitar, drums, and piano.
 
 # Education
 
-After completing a scientific French Baccalauréat in 2015, I pursued and obtained a Bachelor’s Degree in Microengineering from EPFL in 2019. My academic endeavors culminated in a Master’s degree in Robotics from the same institution, with specializations in Data Science and Space Technologies.
-
-
-My studies at EPFL allowed me to cultivate a diverse skill set, ranging from electrical engineering to software engineering, with a particular interest sparked in robotics-oriented software engineering during my final year.
+I completed a scientific French Baccalauréat in 2015 and went on to earn a Bachelor’s Degree in Microengineering from EPFL in 2019. I furthered my education with a Master’s degree in Robotics from EPFL, specializing in Data Science and Space Technologies. My time at EPFL enriched my skills across various engineering fields, with a deep dive into robotics-oriented software engineering and Data in the final years.
 
 # Professional Experience
 
-In the professional realm, I've engaged in roles that blend technical innovation with creative design. My stint with Maffi Racing in Geneva involved leading the redesign of their website and creating a distinctive livery for their Formula 4 car, demonstrating my knack for merging artistic design with brand identity.
+My professional journey has been a blend of technical innovation and creative design. At Maffi Racing in Geneva, I led projects like the website redesign and the creation of a new livery for their Formula 4 car, integrating artistic elements with brand identity.
 
+During my master’s thesis at Cyberbotics, I worked on the Webots robotics simulator, improving its functionality and performance. This included enhancements to the robotbenchmark.net and webots.cloud platforms, making them more secure and efficient for online simulations.
 
-My master's thesis at Cyberbotics allowed me to contribute to the Webots robotics simulator, enhancing its features and performance. This project extended to modernizing the robotbenchmark.net platform and improving the webots.cloud platform for a more secure and efficient online simulation experience.
+I was a Cloud Data Engineer at Pictet Group, focusing on building reliable and robust cloud-based data solutions. My work involved data science, data engineering, software development, DevOps, helping to create scalable data platforms and collaborate effectively with diverse teams.
 
-
-Presently, I am employed as a Cloud Data Engineer at The Pictet Bank. Here, my focus is on developing robust cloud-based data solutions, applying my skills in AWS and Snowflake. My role encompasses data engineering, software development, and DevOps, contributing to efficient, scalable data platforms and collaborating with diverse teams.
+Currently at Cafeyn, I am working on the Data Engineering team as a Platform Engineer, focusing on enhancing and refining data pipelines and infrastructure to improve Machine Learning integration. My role involves developing robust and scalable data platforms, optimizing the way we transform data into actionable insights.
 
 # Career Aspirations
 
